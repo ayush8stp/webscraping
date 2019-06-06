@@ -1,0 +1,5 @@
+for this scraping the requirements are as below
+
+1.Selenium (for accessing browser)
+2.BeautifulSoup (for performing the scraping process)
+3.Pandas (to handle the data in desired format)
